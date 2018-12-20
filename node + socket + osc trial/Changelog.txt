@@ -1,0 +1,13 @@
+#Changelog 
+
+# 12/19/18
+Installed: 
+	- node 
+	- express (webapp framework) 
+	- http 
+	- socket.io (websockets) 
+	- osc 
+	
+Current version is primarily saved on the Desktop. 
+
+Basic node-HTML link capability on JS. Uses the local server to send and receive messages from the web browser. 
